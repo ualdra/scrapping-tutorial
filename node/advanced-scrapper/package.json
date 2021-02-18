@@ -12,5 +12,9 @@
     "tutorial"
   ],
   "author": "Manel Mena",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.5",
+    "puppeteer": "^7.1.0"
+  }
 }
