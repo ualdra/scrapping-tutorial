@@ -1,0 +1,260 @@
+[
+  {
+    "id": 1,
+    "familia_id": 1,
+    "nombre": "Tomate Pera",
+    "url": "https://www.agroprecios.com/es/precios-producto/3-1-tomate-pera"
+  },
+  {
+    "id": 2,
+    "familia_id": 1,
+    "nombre": "Tomate Ramo",
+    "url": "https://www.agroprecios.com/es/precios-producto/4-1-tomate-ramo"
+  },
+  {
+    "id": 3,
+    "familia_id": 2,
+    "nombre": "Pepino Frances",
+    "url": "https://www.agroprecios.com/es/precios-producto/5-2-pepino-frances"
+  },
+  {
+    "id": 4,
+    "familia_id": 2,
+    "nombre": "Pepino Espańol",
+    "url": "https://www.agroprecios.com/es/precios-producto/6-2-pepino-espaol"
+  },
+  {
+    "id": 5,
+    "familia_id": 2,
+    "nombre": "Pepino Almeria",
+    "url": "https://www.agroprecios.com/es/precios-producto/7-2-pepino-almeria"
+  },
+  {
+    "id": 6,
+    "familia_id": 3,
+    "nombre": "Calabacin Fino",
+    "url": "https://www.agroprecios.com/es/precios-producto/8-3-calabacin-fino"
+  },
+  {
+    "id": 7,
+    "familia_id": 3,
+    "nombre": "Calabacin Gordo",
+    "url": "https://www.agroprecios.com/es/precios-producto/9-3-calabacin-gordo"
+  },
+  {
+    "id": 8,
+    "familia_id": 4,
+    "nombre": "Berenjena Larga",
+    "url": "https://www.agroprecios.com/es/precios-producto/10-4-berenjena-larga"
+  },
+  {
+    "id": 9,
+    "familia_id": 4,
+    "nombre": "Berenjena Blanca",
+    "url": "https://www.agroprecios.com/es/precios-producto/11-4-berenjena-blanca"
+  },
+  {
+    "id": 10,
+    "familia_id": 5,
+    "nombre": "Judia Helda",
+    "url": "https://www.agroprecios.com/es/precios-producto/12-5-judia-helda"
+  },
+  {
+    "id": 11,
+    "familia_id": 6,
+    "nombre": "Pto. Largo Verde",
+    "url": "https://www.agroprecios.com/es/precios-producto/13-6-pto-largo-verde"
+  },
+  {
+    "id": 12,
+    "familia_id": 6,
+    "nombre": "Pto. Largo Rojo",
+    "url": "https://www.agroprecios.com/es/precios-producto/14-6-pto-largo-rojo"
+  },
+  {
+    "id": 13,
+    "familia_id": 6,
+    "nombre": "Pto. Corto Verde",
+    "url": "https://www.agroprecios.com/es/precios-producto/15-6-pto-corto-verde"
+  },
+  {
+    "id": 14,
+    "familia_id": 6,
+    "nombre": "Pto. Corto Rojo",
+    "url": "https://www.agroprecios.com/es/precios-producto/16-6-pto-corto-rojo"
+  },
+  {
+    "id": 15,
+    "familia_id": 6,
+    "nombre": "Pto. Corto Amarillo",
+    "url": "https://www.agroprecios.com/es/precios-producto/17-6-pto-corto-amarillo"
+  },
+  {
+    "id": 16,
+    "familia_id": 6,
+    "nombre": "Pto. Italiano Verde",
+    "url": "https://www.agroprecios.com/es/precios-producto/18-6-pto-italiano-verde"
+  },
+  {
+    "id": 17,
+    "familia_id": 6,
+    "nombre": "Pto. Palermo",
+    "url": "https://www.agroprecios.com/es/precios-producto/19-6-pto-palermo"
+  },
+  {
+    "id": 18,
+    "familia_id": 7,
+    "nombre": "T. Daniela GG",
+    "url": null
+  },
+  {
+    "id": 19,
+    "familia_id": 7,
+    "nombre": "T. Daniela G",
+    "url": null
+  },
+  {
+    "id": 20,
+    "familia_id": 7,
+    "nombre": "T. Daniela M",
+    "url": null
+  },
+  {
+    "id": 21,
+    "familia_id": 7,
+    "nombre": "T. Daniela MM",
+    "url": null
+  },
+  {
+    "id": 22,
+    "familia_id": 7,
+    "nombre": "T. Rama G",
+    "url": null
+  },
+  {
+    "id": 23,
+    "familia_id": 7,
+    "nombre": "T. Rama M",
+    "url": null
+  },
+  {
+    "id": 24,
+    "familia_id": 7,
+    "nombre": "T. Rama MM",
+    "url": null
+  },
+  {
+    "id": 25,
+    "familia_id": 8,
+    "nombre": "T. Liso 1Ş",
+    "url": null
+  },
+  {
+    "id": 26,
+    "familia_id": 8,
+    "nombre": "T. Daniela 1Ş",
+    "url": null
+  },
+  {
+    "id": 27,
+    "familia_id": 8,
+    "nombre": "T. Daniela 2Ş",
+    "url": null
+  },
+  {
+    "id": 28,
+    "familia_id": 8,
+    "nombre": "T. Pera 1Ş",
+    "url": null
+  },
+  {
+    "id": 29,
+    "familia_id": 8,
+    "nombre": "T. Pera 2Ş",
+    "url": null
+  },
+  {
+    "id": 30,
+    "familia_id": 8,
+    "nombre": "T. Asurcado 1Ş",
+    "url": null
+  },
+  {
+    "id": 31,
+    "familia_id": 8,
+    "nombre": "T. Asurcado 2Ş",
+    "url": null
+  },
+  {
+    "id": 32,
+    "familia_id": 8,
+    "nombre": "T. Raf 1Ş",
+    "url": null
+  },
+  {
+    "id": 33,
+    "familia_id": 8,
+    "nombre": "T. Raf 2Ş",
+    "url": null
+  },
+  {
+    "id": 34,
+    "familia_id": 7,
+    "nombre": "T. Pera M",
+    "url": null
+  },
+  {
+    "id": 35,
+    "familia_id": 7,
+    "nombre": "T. Pera MM",
+    "url": null
+  },
+  {
+    "id": 36,
+    "familia_id": 8,
+    "nombre": "Liso GG",
+    "url": null
+  },
+  {
+    "id": 37,
+    "familia_id": 8,
+    "nombre": "T. Daniela Gordo",
+    "url": null
+  },
+  {
+    "id": 38,
+    "familia_id": 8,
+    "nombre": "T. Raf G",
+    "url": null
+  },
+  {
+    "id": 39,
+    "familia_id": 8,
+    "nombre": "T. Raf M",
+    "url": null
+  },
+  {
+    "id": 40,
+    "familia_id": 8,
+    "nombre": "T. Raf MM",
+    "url": null
+  },
+  {
+    "id": 41,
+    "familia_id": 8,
+    "nombre": "T. Raf Maduro",
+    "url": null
+  },
+  {
+    "id": 42,
+    "familia_id": 8,
+    "nombre": "T. Raf GG",
+    "url": null
+  },
+  {
+    "id": 43,
+    "familia_id": 1,
+    "nombre": "Tomate Daniela",
+    "url": "https://www.agroprecios.com/es/precios-producto/2-1-tomate-daniela"
+  }
+]

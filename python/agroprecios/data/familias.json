@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "nombre": "TOMATE"
+  },
+  {
+    "id": 2,
+    "nombre": "PEPINO"
+  },
+  {
+    "id": 3,
+    "nombre": "CALABACIN"
+  },
+  {
+    "id": 4,
+    "nombre": "BERENJENA"
+  },
+  {
+    "id": 5,
+    "nombre": "JUDIAS"
+  },
+  {
+    "id": 6,
+    "nombre": "PIMIENTO"
+  },
+  {
+    "id": 7,
+    "nombre": "TOM. NORMALIZADO"
+  },
+  {
+    "id": 8,
+    "nombre": "TOM. SIN NORMALIZAR"
+  }
+]

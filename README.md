@@ -9,8 +9,7 @@ In the tutorial we are going to try to learn webscrapping as fast as we can. We 
 In the folder node we can find both tutorials made with node.js language. In the case of the simple one we use [cheerio.js](https://cheerio.js.org) to analize the classification. In the advanced tutorial we use [Puppeteer](https://pptr.dev).
 
 ## Python
-#TODO: ## Finish up the **Python** section of this doc.
-<!-- BeautifulSoup -->
+In the folder python we can find the Agroprecios tutorial made with python language. In this case we use [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/) to scrape auction and product price data, and export it to JSON files.
 
 ## Java
 #TODO: ## Finish up the **Java** section of this doc.

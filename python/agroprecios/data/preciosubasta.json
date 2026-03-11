@@ -1,0 +1,5966 @@
+[
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 1,
+    "corte": 1,
+    "precio": 84
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 1,
+    "corte": 2,
+    "precio": 82
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 1,
+    "corte": 3,
+    "precio": 79
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 1,
+    "corte": 4,
+    "precio": 67
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 2,
+    "corte": 1,
+    "precio": 50
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 3,
+    "corte": 1,
+    "precio": 136
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 3,
+    "corte": 2,
+    "precio": 133
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 3,
+    "corte": 3,
+    "precio": 127
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 3,
+    "corte": 4,
+    "precio": 124
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 3,
+    "corte": 5,
+    "precio": 118
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 4,
+    "corte": 1,
+    "precio": 132
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 4,
+    "corte": 2,
+    "precio": 130
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 4,
+    "corte": 3,
+    "precio": 128
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 4,
+    "corte": 4,
+    "precio": 124
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 4,
+    "corte": 5,
+    "precio": 122
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 4,
+    "corte": 6,
+    "precio": 120
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 4,
+    "corte": 7,
+    "precio": 118
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 4,
+    "corte": 8,
+    "precio": 115
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 4,
+    "corte": 9,
+    "precio": 113
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 5,
+    "corte": 1,
+    "precio": 103
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 5,
+    "corte": 2,
+    "precio": 97
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 5,
+    "corte": 3,
+    "precio": 92
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 6,
+    "corte": 1,
+    "precio": 82
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 6,
+    "corte": 2,
+    "precio": 80
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 6,
+    "corte": 3,
+    "precio": 78
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 6,
+    "corte": 4,
+    "precio": 76
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 6,
+    "corte": 5,
+    "precio": 75
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 6,
+    "corte": 6,
+    "precio": 73
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 6,
+    "corte": 7,
+    "precio": 71
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 6,
+    "corte": 8,
+    "precio": 68
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 6,
+    "corte": 9,
+    "precio": 67
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 6,
+    "corte": 10,
+    "precio": 65
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 7,
+    "corte": 1,
+    "precio": 78
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 7,
+    "corte": 2,
+    "precio": 75
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 7,
+    "corte": 3,
+    "precio": 72
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 7,
+    "corte": 4,
+    "precio": 68
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 7,
+    "corte": 5,
+    "precio": 67
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 7,
+    "corte": 6,
+    "precio": 65
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 7,
+    "corte": 7,
+    "precio": 63
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 7,
+    "corte": 8,
+    "precio": 59
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 8,
+    "corte": 1,
+    "precio": 114
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 8,
+    "corte": 2,
+    "precio": 112
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 8,
+    "corte": 3,
+    "precio": 110
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 8,
+    "corte": 4,
+    "precio": 108
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 8,
+    "corte": 5,
+    "precio": 106
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 8,
+    "corte": 6,
+    "precio": 105
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 8,
+    "corte": 7,
+    "precio": 103
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 8,
+    "corte": 8,
+    "precio": 101
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 8,
+    "corte": 9,
+    "precio": 99
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 9,
+    "corte": 1,
+    "precio": 208
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 9,
+    "corte": 2,
+    "precio": 200
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 9,
+    "corte": 3,
+    "precio": 180
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 9,
+    "corte": 4,
+    "precio": 166
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 9,
+    "corte": 5,
+    "precio": 153
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 10,
+    "corte": 1,
+    "precio": 786
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 10,
+    "corte": 2,
+    "precio": 761
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 10,
+    "corte": 3,
+    "precio": 723
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 10,
+    "corte": 4,
+    "precio": 697
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 10,
+    "corte": 5,
+    "precio": 677
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 10,
+    "corte": 6,
+    "precio": 655
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 10,
+    "corte": 7,
+    "precio": 631
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 10,
+    "corte": 8,
+    "precio": 607
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 10,
+    "corte": 9,
+    "precio": 589
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 11,
+    "corte": 1,
+    "precio": 214
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 11,
+    "corte": 2,
+    "precio": 210
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 11,
+    "corte": 3,
+    "precio": 206
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 11,
+    "corte": 4,
+    "precio": 199
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 11,
+    "corte": 5,
+    "precio": 194
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 11,
+    "corte": 6,
+    "precio": 191
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 11,
+    "corte": 7,
+    "precio": 187
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 11,
+    "corte": 8,
+    "precio": 184
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 11,
+    "corte": 9,
+    "precio": 181
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 12,
+    "corte": 1,
+    "precio": 219
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 12,
+    "corte": 2,
+    "precio": 213
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 12,
+    "corte": 3,
+    "precio": 210
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 12,
+    "corte": 4,
+    "precio": 206
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 12,
+    "corte": 5,
+    "precio": 202
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 12,
+    "corte": 6,
+    "precio": 200
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 12,
+    "corte": 7,
+    "precio": 198
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 12,
+    "corte": 8,
+    "precio": 196
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 12,
+    "corte": 9,
+    "precio": 194
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 12,
+    "corte": 10,
+    "precio": 191
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 13,
+    "corte": 1,
+    "precio": 210
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 13,
+    "corte": 2,
+    "precio": 199
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 13,
+    "corte": 3,
+    "precio": 193
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 13,
+    "corte": 4,
+    "precio": 183
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 13,
+    "corte": 5,
+    "precio": 175
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 13,
+    "corte": 6,
+    "precio": 171
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 13,
+    "corte": 7,
+    "precio": 167
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 13,
+    "corte": 8,
+    "precio": 162
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 13,
+    "corte": 9,
+    "precio": 158
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 14,
+    "corte": 1,
+    "precio": 214
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 14,
+    "corte": 2,
+    "precio": 210
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 14,
+    "corte": 3,
+    "precio": 208
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 14,
+    "corte": 4,
+    "precio": 206
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 14,
+    "corte": 5,
+    "precio": 204
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 14,
+    "corte": 6,
+    "precio": 203
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 14,
+    "corte": 7,
+    "precio": 200
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 14,
+    "corte": 8,
+    "precio": 198
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 14,
+    "corte": 9,
+    "precio": 195
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 15,
+    "corte": 1,
+    "precio": 232
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 15,
+    "corte": 2,
+    "precio": 223
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 15,
+    "corte": 3,
+    "precio": 206
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 15,
+    "corte": 4,
+    "precio": 196
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 15,
+    "corte": 5,
+    "precio": 187
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 15,
+    "corte": 6,
+    "precio": 184
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 15,
+    "corte": 7,
+    "precio": 181
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 15,
+    "corte": 8,
+    "precio": 175
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 15,
+    "corte": 9,
+    "precio": 171
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 16,
+    "corte": 1,
+    "precio": 197
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 16,
+    "corte": 2,
+    "precio": 193
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 16,
+    "corte": 3,
+    "precio": 190
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 16,
+    "corte": 4,
+    "precio": 187
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 16,
+    "corte": 5,
+    "precio": 185
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 16,
+    "corte": 6,
+    "precio": 183
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 16,
+    "corte": 7,
+    "precio": 180
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 17,
+    "corte": 1,
+    "precio": 225
+  },
+  {
+    "subasta_id": 1,
+    "fecha": "2026-02-26",
+    "producto_id": 17,
+    "corte": 2,
+    "precio": 209
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 18,
+    "corte": 1,
+    "precio": 233
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 18,
+    "corte": 2,
+    "precio": 230
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 18,
+    "corte": 3,
+    "precio": 227
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 18,
+    "corte": 4,
+    "precio": 224
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 18,
+    "corte": 5,
+    "precio": 221
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 18,
+    "corte": 6,
+    "precio": 218
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 18,
+    "corte": 7,
+    "precio": 215
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 18,
+    "corte": 8,
+    "precio": 212
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 18,
+    "corte": 9,
+    "precio": 209
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 18,
+    "corte": 10,
+    "precio": 206
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 19,
+    "corte": 1,
+    "precio": 161
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 19,
+    "corte": 2,
+    "precio": 159
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 19,
+    "corte": 3,
+    "precio": 156
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 19,
+    "corte": 4,
+    "precio": 153
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 19,
+    "corte": 5,
+    "precio": 150
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 19,
+    "corte": 6,
+    "precio": 147
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 19,
+    "corte": 7,
+    "precio": 145
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 19,
+    "corte": 8,
+    "precio": 142
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 19,
+    "corte": 9,
+    "precio": 139
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 19,
+    "corte": 10,
+    "precio": 136
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 20,
+    "corte": 1,
+    "precio": 148
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 20,
+    "corte": 2,
+    "precio": 146
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 20,
+    "corte": 3,
+    "precio": 143
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 20,
+    "corte": 4,
+    "precio": 140
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 20,
+    "corte": 5,
+    "precio": 137
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 20,
+    "corte": 6,
+    "precio": 134
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 20,
+    "corte": 7,
+    "precio": 131
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 20,
+    "corte": 8,
+    "precio": 128
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 20,
+    "corte": 9,
+    "precio": 125
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 20,
+    "corte": 10,
+    "precio": 122
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 21,
+    "corte": 1,
+    "precio": 55
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 21,
+    "corte": 2,
+    "precio": 52
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 21,
+    "corte": 3,
+    "precio": 49
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 21,
+    "corte": 4,
+    "precio": 46
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 22,
+    "corte": 1,
+    "precio": 134
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 22,
+    "corte": 2,
+    "precio": 132
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 22,
+    "corte": 3,
+    "precio": 127
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 22,
+    "corte": 4,
+    "precio": 125
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 22,
+    "corte": 5,
+    "precio": 122
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 22,
+    "corte": 6,
+    "precio": 119
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 22,
+    "corte": 7,
+    "precio": 116
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 22,
+    "corte": 8,
+    "precio": 113
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 22,
+    "corte": 9,
+    "precio": 109
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 22,
+    "corte": 10,
+    "precio": 106
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 23,
+    "corte": 1,
+    "precio": 108
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 23,
+    "corte": 2,
+    "precio": 105
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 23,
+    "corte": 3,
+    "precio": 102
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 23,
+    "corte": 4,
+    "precio": 99
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 23,
+    "corte": 5,
+    "precio": 96
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 23,
+    "corte": 6,
+    "precio": 93
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 23,
+    "corte": 7,
+    "precio": 90
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 23,
+    "corte": 8,
+    "precio": 87
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 23,
+    "corte": 9,
+    "precio": 84
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 23,
+    "corte": 10,
+    "precio": 81
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 24,
+    "corte": 1,
+    "precio": 84
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 24,
+    "corte": 2,
+    "precio": 81
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 24,
+    "corte": 3,
+    "precio": 78
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 24,
+    "corte": 4,
+    "precio": 75
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 24,
+    "corte": 5,
+    "precio": 72
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 24,
+    "corte": 6,
+    "precio": 69
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 24,
+    "corte": 7,
+    "precio": 66
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 24,
+    "corte": 8,
+    "precio": 63
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 24,
+    "corte": 9,
+    "precio": 60
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 25,
+    "corte": 1,
+    "precio": 145
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 25,
+    "corte": 2,
+    "precio": 140
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 25,
+    "corte": 3,
+    "precio": 135
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 25,
+    "corte": 4,
+    "precio": 130
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 25,
+    "corte": 5,
+    "precio": 125
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 25,
+    "corte": 6,
+    "precio": 120
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 25,
+    "corte": 7,
+    "precio": 115
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 25,
+    "corte": 8,
+    "precio": 110
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 25,
+    "corte": 9,
+    "precio": 105
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 25,
+    "corte": 10,
+    "precio": 100
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 26,
+    "corte": 1,
+    "precio": 169
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 26,
+    "corte": 2,
+    "precio": 163
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 26,
+    "corte": 3,
+    "precio": 160
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 26,
+    "corte": 4,
+    "precio": 157
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 26,
+    "corte": 5,
+    "precio": 154
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 26,
+    "corte": 6,
+    "precio": 151
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 26,
+    "corte": 7,
+    "precio": 148
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 26,
+    "corte": 8,
+    "precio": 136
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 26,
+    "corte": 9,
+    "precio": 132
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 26,
+    "corte": 10,
+    "precio": 128
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 27,
+    "corte": 1,
+    "precio": 78
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 27,
+    "corte": 2,
+    "precio": 75
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 27,
+    "corte": 3,
+    "precio": 72
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 27,
+    "corte": 4,
+    "precio": 69
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 27,
+    "corte": 5,
+    "precio": 66
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 27,
+    "corte": 6,
+    "precio": 63
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 27,
+    "corte": 7,
+    "precio": 60
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 27,
+    "corte": 8,
+    "precio": 57
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 27,
+    "corte": 9,
+    "precio": 54
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 27,
+    "corte": 10,
+    "precio": 51
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 28,
+    "corte": 1,
+    "precio": 138
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 28,
+    "corte": 2,
+    "precio": 136
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 28,
+    "corte": 3,
+    "precio": 133
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 28,
+    "corte": 4,
+    "precio": 130
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 28,
+    "corte": 5,
+    "precio": 127
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 28,
+    "corte": 6,
+    "precio": 124
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 28,
+    "corte": 7,
+    "precio": 121
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 28,
+    "corte": 8,
+    "precio": 118
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 28,
+    "corte": 9,
+    "precio": 115
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 28,
+    "corte": 10,
+    "precio": 112
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 29,
+    "corte": 1,
+    "precio": 82
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 29,
+    "corte": 2,
+    "precio": 79
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 29,
+    "corte": 3,
+    "precio": 76
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 29,
+    "corte": 4,
+    "precio": 73
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 29,
+    "corte": 5,
+    "precio": 70
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 29,
+    "corte": 6,
+    "precio": 67
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 29,
+    "corte": 7,
+    "precio": 64
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 29,
+    "corte": 8,
+    "precio": 60
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 29,
+    "corte": 9,
+    "precio": 56
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 29,
+    "corte": 10,
+    "precio": 52
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 30,
+    "corte": 1,
+    "precio": 140
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 30,
+    "corte": 2,
+    "precio": 135
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 30,
+    "corte": 3,
+    "precio": 130
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 30,
+    "corte": 4,
+    "precio": 125
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 30,
+    "corte": 5,
+    "precio": 120
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 30,
+    "corte": 6,
+    "precio": 115
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 30,
+    "corte": 7,
+    "precio": 110
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 30,
+    "corte": 8,
+    "precio": 105
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 30,
+    "corte": 9,
+    "precio": 100
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 30,
+    "corte": 10,
+    "precio": 95
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 31,
+    "corte": 1,
+    "precio": 65
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 31,
+    "corte": 2,
+    "precio": 60
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 31,
+    "corte": 3,
+    "precio": 55
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 31,
+    "corte": 4,
+    "precio": 50
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 31,
+    "corte": 5,
+    "precio": 45
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 31,
+    "corte": 6,
+    "precio": 40
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 31,
+    "corte": 7,
+    "precio": 35
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 31,
+    "corte": 8,
+    "precio": 30
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 31,
+    "corte": 9,
+    "precio": 25
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 31,
+    "corte": 10,
+    "precio": 20
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 32,
+    "corte": 1,
+    "precio": 550
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 32,
+    "corte": 2,
+    "precio": 500
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 32,
+    "corte": 3,
+    "precio": 470
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 32,
+    "corte": 4,
+    "precio": 430
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 32,
+    "corte": 5,
+    "precio": 400
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 32,
+    "corte": 6,
+    "precio": 380
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 32,
+    "corte": 7,
+    "precio": 370
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 32,
+    "corte": 8,
+    "precio": 360
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 32,
+    "corte": 9,
+    "precio": 350
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 32,
+    "corte": 10,
+    "precio": 340
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 33,
+    "corte": 1,
+    "precio": 550
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 33,
+    "corte": 2,
+    "precio": 540
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 33,
+    "corte": 3,
+    "precio": 530
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 33,
+    "corte": 4,
+    "precio": 520
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 33,
+    "corte": 5,
+    "precio": 500
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 33,
+    "corte": 6,
+    "precio": 480
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 33,
+    "corte": 7,
+    "precio": 460
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 33,
+    "corte": 8,
+    "precio": 440
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 33,
+    "corte": 9,
+    "precio": 420
+  },
+  {
+    "subasta_id": 2,
+    "fecha": "2026-02-26",
+    "producto_id": 33,
+    "corte": 10,
+    "precio": 400
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 18,
+    "corte": 1,
+    "precio": 204
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 18,
+    "corte": 2,
+    "precio": 202
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 18,
+    "corte": 3,
+    "precio": 196
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 18,
+    "corte": 4,
+    "precio": 188
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 18,
+    "corte": 5,
+    "precio": 186
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 18,
+    "corte": 6,
+    "precio": 184
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 18,
+    "corte": 7,
+    "precio": 182
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 18,
+    "corte": 8,
+    "precio": 180
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 18,
+    "corte": 9,
+    "precio": 178
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 18,
+    "corte": 10,
+    "precio": 176
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 19,
+    "corte": 1,
+    "precio": 150
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 19,
+    "corte": 2,
+    "precio": 148
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 19,
+    "corte": 3,
+    "precio": 146
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 19,
+    "corte": 4,
+    "precio": 144
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 19,
+    "corte": 5,
+    "precio": 142
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 19,
+    "corte": 6,
+    "precio": 140
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 19,
+    "corte": 7,
+    "precio": 138
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 19,
+    "corte": 8,
+    "precio": 136
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 19,
+    "corte": 9,
+    "precio": 134
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 19,
+    "corte": 10,
+    "precio": 132
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 20,
+    "corte": 1,
+    "precio": 104
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 20,
+    "corte": 2,
+    "precio": 102
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 20,
+    "corte": 3,
+    "precio": 100
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 20,
+    "corte": 4,
+    "precio": 98
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 20,
+    "corte": 5,
+    "precio": 96
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 20,
+    "corte": 6,
+    "precio": 94
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 20,
+    "corte": 7,
+    "precio": 92
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 20,
+    "corte": 8,
+    "precio": 90
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 20,
+    "corte": 9,
+    "precio": 88
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 20,
+    "corte": 10,
+    "precio": 86
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 21,
+    "corte": 1,
+    "precio": 74
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 21,
+    "corte": 2,
+    "precio": 72
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 21,
+    "corte": 3,
+    "precio": 70
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 21,
+    "corte": 4,
+    "precio": 68
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 21,
+    "corte": 5,
+    "precio": 66
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 21,
+    "corte": 6,
+    "precio": 64
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 21,
+    "corte": 7,
+    "precio": 62
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 21,
+    "corte": 8,
+    "precio": 60
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 21,
+    "corte": 9,
+    "precio": 58
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 21,
+    "corte": 10,
+    "precio": 56
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 22,
+    "corte": 1,
+    "precio": 120
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 22,
+    "corte": 2,
+    "precio": 118
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 22,
+    "corte": 3,
+    "precio": 116
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 22,
+    "corte": 4,
+    "precio": 114
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 22,
+    "corte": 5,
+    "precio": 112
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 22,
+    "corte": 6,
+    "precio": 110
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 22,
+    "corte": 7,
+    "precio": 108
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 22,
+    "corte": 8,
+    "precio": 106
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 22,
+    "corte": 9,
+    "precio": 104
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 22,
+    "corte": 10,
+    "precio": 102
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 23,
+    "corte": 1,
+    "precio": 106
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 23,
+    "corte": 2,
+    "precio": 100
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 23,
+    "corte": 3,
+    "precio": 98
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 23,
+    "corte": 4,
+    "precio": 96
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 23,
+    "corte": 5,
+    "precio": 94
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 23,
+    "corte": 6,
+    "precio": 92
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 23,
+    "corte": 7,
+    "precio": 90
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 34,
+    "corte": 1,
+    "precio": 136
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 34,
+    "corte": 2,
+    "precio": 134
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 34,
+    "corte": 3,
+    "precio": 132
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 34,
+    "corte": 4,
+    "precio": 130
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 34,
+    "corte": 5,
+    "precio": 128
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 34,
+    "corte": 6,
+    "precio": 126
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 34,
+    "corte": 7,
+    "precio": 124
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 34,
+    "corte": 8,
+    "precio": 122
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 34,
+    "corte": 9,
+    "precio": 120
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 34,
+    "corte": 10,
+    "precio": 118
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 35,
+    "corte": 1,
+    "precio": 60
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 35,
+    "corte": 2,
+    "precio": 57
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 35,
+    "corte": 3,
+    "precio": 54
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 35,
+    "corte": 4,
+    "precio": 51
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 35,
+    "corte": 5,
+    "precio": 48
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 35,
+    "corte": 6,
+    "precio": 45
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 35,
+    "corte": 7,
+    "precio": 42
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 35,
+    "corte": 8,
+    "precio": 39
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 35,
+    "corte": 9,
+    "precio": 36
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 35,
+    "corte": 10,
+    "precio": 33
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 36,
+    "corte": 1,
+    "precio": 250
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 36,
+    "corte": 2,
+    "precio": 245
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 36,
+    "corte": 3,
+    "precio": 240
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 36,
+    "corte": 4,
+    "precio": 235
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 36,
+    "corte": 5,
+    "precio": 230
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 36,
+    "corte": 6,
+    "precio": 225
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 36,
+    "corte": 7,
+    "precio": 220
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 36,
+    "corte": 8,
+    "precio": 215
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 36,
+    "corte": 9,
+    "precio": 210
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 36,
+    "corte": 10,
+    "precio": 205
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 27,
+    "corte": 1,
+    "precio": 58
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 27,
+    "corte": 2,
+    "precio": 55
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 27,
+    "corte": 3,
+    "precio": 52
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 27,
+    "corte": 4,
+    "precio": 49
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 27,
+    "corte": 5,
+    "precio": 46
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 27,
+    "corte": 6,
+    "precio": 43
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 27,
+    "corte": 7,
+    "precio": 40
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 27,
+    "corte": 8,
+    "precio": 37
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 27,
+    "corte": 9,
+    "precio": 34
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 27,
+    "corte": 10,
+    "precio": 31
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 37,
+    "corte": 1,
+    "precio": 85
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 37,
+    "corte": 2,
+    "precio": 82
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 37,
+    "corte": 3,
+    "precio": 79
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 37,
+    "corte": 4,
+    "precio": 76
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 37,
+    "corte": 5,
+    "precio": 73
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 37,
+    "corte": 6,
+    "precio": 70
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 37,
+    "corte": 7,
+    "precio": 67
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 37,
+    "corte": 8,
+    "precio": 64
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 37,
+    "corte": 9,
+    "precio": 61
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 37,
+    "corte": 10,
+    "precio": 58
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 38,
+    "corte": 1,
+    "precio": 810
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 38,
+    "corte": 2,
+    "precio": 740
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 38,
+    "corte": 3,
+    "precio": 710
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 38,
+    "corte": 4,
+    "precio": 700
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 38,
+    "corte": 5,
+    "precio": 690
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 38,
+    "corte": 6,
+    "precio": 680
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 38,
+    "corte": 7,
+    "precio": 670
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 38,
+    "corte": 8,
+    "precio": 660
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 38,
+    "corte": 9,
+    "precio": 650
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 38,
+    "corte": 10,
+    "precio": 640
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 39,
+    "corte": 1,
+    "precio": 690
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 39,
+    "corte": 2,
+    "precio": 680
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 39,
+    "corte": 3,
+    "precio": 670
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 39,
+    "corte": 4,
+    "precio": 660
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 39,
+    "corte": 5,
+    "precio": 650
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 39,
+    "corte": 6,
+    "precio": 640
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 39,
+    "corte": 7,
+    "precio": 630
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 39,
+    "corte": 8,
+    "precio": 620
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 39,
+    "corte": 9,
+    "precio": 610
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 39,
+    "corte": 10,
+    "precio": 600
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 40,
+    "corte": 1,
+    "precio": 660
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 40,
+    "corte": 2,
+    "precio": 650
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 40,
+    "corte": 3,
+    "precio": 640
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 40,
+    "corte": 4,
+    "precio": 630
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 40,
+    "corte": 5,
+    "precio": 620
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 40,
+    "corte": 6,
+    "precio": 610
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 40,
+    "corte": 7,
+    "precio": 600
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 40,
+    "corte": 8,
+    "precio": 590
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 40,
+    "corte": 9,
+    "precio": 580
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 40,
+    "corte": 10,
+    "precio": 570
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 41,
+    "corte": 1,
+    "precio": 600
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 41,
+    "corte": 2,
+    "precio": 590
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 41,
+    "corte": 3,
+    "precio": 580
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 41,
+    "corte": 4,
+    "precio": 570
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 41,
+    "corte": 5,
+    "precio": 560
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 41,
+    "corte": 6,
+    "precio": 550
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 41,
+    "corte": 7,
+    "precio": 540
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 41,
+    "corte": 8,
+    "precio": 530
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 41,
+    "corte": 9,
+    "precio": 520
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 41,
+    "corte": 10,
+    "precio": 510
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 42,
+    "corte": 1,
+    "precio": 340
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 42,
+    "corte": 2,
+    "precio": 330
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 42,
+    "corte": 3,
+    "precio": 320
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 42,
+    "corte": 4,
+    "precio": 310
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 42,
+    "corte": 5,
+    "precio": 300
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 42,
+    "corte": 6,
+    "precio": 290
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 42,
+    "corte": 7,
+    "precio": 280
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 42,
+    "corte": 8,
+    "precio": 270
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 42,
+    "corte": 9,
+    "precio": 260
+  },
+  {
+    "subasta_id": 3,
+    "fecha": "2026-02-26",
+    "producto_id": 42,
+    "corte": 10,
+    "precio": 250
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 1,
+    "corte": 1,
+    "precio": 78
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 1,
+    "corte": 2,
+    "precio": 75
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 1,
+    "corte": 3,
+    "precio": 73
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 1,
+    "corte": 4,
+    "precio": 71
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 1,
+    "corte": 5,
+    "precio": 69
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 1,
+    "corte": 6,
+    "precio": 61
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 1,
+    "corte": 7,
+    "precio": 56
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 1,
+    "corte": 8,
+    "precio": 53
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 3,
+    "corte": 1,
+    "precio": 131
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 3,
+    "corte": 2,
+    "precio": 123
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 3,
+    "corte": 3,
+    "precio": 120
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 3,
+    "corte": 4,
+    "precio": 116
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 3,
+    "corte": 5,
+    "precio": 113
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 4,
+    "corte": 1,
+    "precio": 131
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 4,
+    "corte": 2,
+    "precio": 126
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 4,
+    "corte": 3,
+    "precio": 123
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 4,
+    "corte": 4,
+    "precio": 119
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 4,
+    "corte": 5,
+    "precio": 116
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 5,
+    "corte": 1,
+    "precio": 105
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 5,
+    "corte": 2,
+    "precio": 90
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 6,
+    "corte": 1,
+    "precio": 64
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 6,
+    "corte": 2,
+    "precio": 62
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 6,
+    "corte": 3,
+    "precio": 60
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 6,
+    "corte": 4,
+    "precio": 58
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 6,
+    "corte": 5,
+    "precio": 56
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 7,
+    "corte": 1,
+    "precio": 56
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 7,
+    "corte": 2,
+    "precio": 52
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 7,
+    "corte": 3,
+    "precio": 48
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 7,
+    "corte": 4,
+    "precio": 45
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 8,
+    "corte": 1,
+    "precio": 116
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 8,
+    "corte": 2,
+    "precio": 113
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 8,
+    "corte": 3,
+    "precio": 110
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 8,
+    "corte": 4,
+    "precio": 108
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 8,
+    "corte": 5,
+    "precio": 106
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 8,
+    "corte": 6,
+    "precio": 104
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 8,
+    "corte": 7,
+    "precio": 102
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 8,
+    "corte": 8,
+    "precio": 99
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 9,
+    "corte": 1,
+    "precio": 146
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 10,
+    "corte": 1,
+    "precio": 602
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 11,
+    "corte": 1,
+    "precio": 185
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 11,
+    "corte": 2,
+    "precio": 174
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 11,
+    "corte": 3,
+    "precio": 164
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 11,
+    "corte": 4,
+    "precio": 161
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 11,
+    "corte": 5,
+    "precio": 159
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 11,
+    "corte": 6,
+    "precio": 157
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 12,
+    "corte": 1,
+    "precio": 192
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 12,
+    "corte": 2,
+    "precio": 190
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 12,
+    "corte": 3,
+    "precio": 188
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 12,
+    "corte": 4,
+    "precio": 184
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 12,
+    "corte": 5,
+    "precio": 182
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 12,
+    "corte": 6,
+    "precio": 181
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 12,
+    "corte": 7,
+    "precio": 180
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 12,
+    "corte": 8,
+    "precio": 177
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 12,
+    "corte": 9,
+    "precio": 175
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 13,
+    "corte": 1,
+    "precio": 174
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 13,
+    "corte": 2,
+    "precio": 169
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 13,
+    "corte": 3,
+    "precio": 155
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 13,
+    "corte": 4,
+    "precio": 139
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 13,
+    "corte": 5,
+    "precio": 131
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 14,
+    "corte": 1,
+    "precio": 200
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 14,
+    "corte": 2,
+    "precio": 197
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 14,
+    "corte": 3,
+    "precio": 194
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 14,
+    "corte": 4,
+    "precio": 190
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 14,
+    "corte": 5,
+    "precio": 188
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 14,
+    "corte": 6,
+    "precio": 186
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 14,
+    "corte": 7,
+    "precio": 183
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 15,
+    "corte": 1,
+    "precio": 169
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 15,
+    "corte": 2,
+    "precio": 159
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 15,
+    "corte": 3,
+    "precio": 151
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 15,
+    "corte": 4,
+    "precio": 139
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 16,
+    "corte": 1,
+    "precio": 186
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 16,
+    "corte": 2,
+    "precio": 181
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 16,
+    "corte": 3,
+    "precio": 178
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 16,
+    "corte": 4,
+    "precio": 176
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 16,
+    "corte": 5,
+    "precio": 174
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 16,
+    "corte": 6,
+    "precio": 171
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 16,
+    "corte": 7,
+    "precio": 168
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 16,
+    "corte": 8,
+    "precio": 166
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 16,
+    "corte": 9,
+    "precio": 164
+  },
+  {
+    "subasta_id": 4,
+    "fecha": "2026-02-26",
+    "producto_id": 16,
+    "corte": 10,
+    "precio": 161
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 43,
+    "corte": 1,
+    "precio": 81
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 43,
+    "corte": 2,
+    "precio": 75
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 43,
+    "corte": 3,
+    "precio": 70
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 43,
+    "corte": 4,
+    "precio": 67
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 1,
+    "corte": 1,
+    "precio": 96
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 1,
+    "corte": 2,
+    "precio": 93
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 1,
+    "corte": 3,
+    "precio": 90
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 1,
+    "corte": 4,
+    "precio": 87
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 1,
+    "corte": 5,
+    "precio": 84
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 1,
+    "corte": 6,
+    "precio": 81
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 1,
+    "corte": 7,
+    "precio": 78
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 1,
+    "corte": 8,
+    "precio": 75
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 1,
+    "corte": 9,
+    "precio": 71
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 2,
+    "corte": 1,
+    "precio": 81
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 2,
+    "corte": 2,
+    "precio": 62
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 2,
+    "corte": 3,
+    "precio": 56
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 3,
+    "corte": 1,
+    "precio": 123
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 3,
+    "corte": 2,
+    "precio": 119
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 3,
+    "corte": 3,
+    "precio": 116
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 3,
+    "corte": 4,
+    "precio": 113
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 4,
+    "corte": 1,
+    "precio": 132
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 4,
+    "corte": 2,
+    "precio": 126
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 4,
+    "corte": 3,
+    "precio": 121
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 4,
+    "corte": 4,
+    "precio": 116
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 4,
+    "corte": 5,
+    "precio": 114
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 4,
+    "corte": 6,
+    "precio": 112
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 4,
+    "corte": 7,
+    "precio": 110
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 4,
+    "corte": 8,
+    "precio": 108
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 4,
+    "corte": 9,
+    "precio": 106
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 4,
+    "corte": 10,
+    "precio": 104
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 5,
+    "corte": 1,
+    "precio": 90
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 5,
+    "corte": 2,
+    "precio": 84
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 5,
+    "corte": 3,
+    "precio": 61
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 6,
+    "corte": 1,
+    "precio": 92
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 6,
+    "corte": 2,
+    "precio": 89
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 6,
+    "corte": 3,
+    "precio": 86
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 6,
+    "corte": 4,
+    "precio": 83
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 6,
+    "corte": 5,
+    "precio": 81
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 6,
+    "corte": 6,
+    "precio": 79
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 6,
+    "corte": 7,
+    "precio": 77
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 6,
+    "corte": 8,
+    "precio": 75
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 6,
+    "corte": 9,
+    "precio": 73
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 6,
+    "corte": 10,
+    "precio": 67
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 7,
+    "corte": 1,
+    "precio": 85
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 7,
+    "corte": 2,
+    "precio": 82
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 7,
+    "corte": 3,
+    "precio": 80
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 7,
+    "corte": 4,
+    "precio": 78
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 7,
+    "corte": 5,
+    "precio": 74
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 7,
+    "corte": 6,
+    "precio": 71
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 7,
+    "corte": 7,
+    "precio": 66
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 8,
+    "corte": 1,
+    "precio": 123
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 8,
+    "corte": 2,
+    "precio": 114
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 8,
+    "corte": 3,
+    "precio": 110
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 8,
+    "corte": 4,
+    "precio": 106
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 8,
+    "corte": 5,
+    "precio": 103
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 8,
+    "corte": 6,
+    "precio": 100
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 8,
+    "corte": 7,
+    "precio": 96
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 9,
+    "corte": 1,
+    "precio": 200
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 9,
+    "corte": 2,
+    "precio": 187
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 9,
+    "corte": 3,
+    "precio": 180
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 9,
+    "corte": 4,
+    "precio": 167
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 9,
+    "corte": 5,
+    "precio": 156
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 9,
+    "corte": 6,
+    "precio": 150
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 9,
+    "corte": 7,
+    "precio": 146
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 9,
+    "corte": 8,
+    "precio": 142
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 9,
+    "corte": 9,
+    "precio": 138
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 10,
+    "corte": 1,
+    "precio": 806
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 10,
+    "corte": 2,
+    "precio": 744
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 10,
+    "corte": 3,
+    "precio": 698
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 10,
+    "corte": 4,
+    "precio": 664
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 10,
+    "corte": 5,
+    "precio": 622
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 10,
+    "corte": 6,
+    "precio": 596
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 10,
+    "corte": 7,
+    "precio": 580
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 10,
+    "corte": 8,
+    "precio": 564
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 10,
+    "corte": 9,
+    "precio": 546
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 10,
+    "corte": 10,
+    "precio": 528
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 11,
+    "corte": 1,
+    "precio": 185
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 11,
+    "corte": 2,
+    "precio": 180
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 11,
+    "corte": 3,
+    "precio": 177
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 11,
+    "corte": 4,
+    "precio": 172
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 11,
+    "corte": 5,
+    "precio": 167
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 11,
+    "corte": 6,
+    "precio": 163
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 11,
+    "corte": 7,
+    "precio": 160
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 12,
+    "corte": 1,
+    "precio": 234
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 12,
+    "corte": 2,
+    "precio": 231
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 12,
+    "corte": 3,
+    "precio": 223
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 12,
+    "corte": 4,
+    "precio": 218
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 12,
+    "corte": 5,
+    "precio": 214
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 12,
+    "corte": 6,
+    "precio": 206
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 12,
+    "corte": 7,
+    "precio": 202
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 12,
+    "corte": 8,
+    "precio": 198
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 12,
+    "corte": 9,
+    "precio": 195
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 12,
+    "corte": 10,
+    "precio": 192
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 13,
+    "corte": 1,
+    "precio": 178
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 13,
+    "corte": 2,
+    "precio": 172
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 13,
+    "corte": 3,
+    "precio": 165
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 13,
+    "corte": 4,
+    "precio": 161
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 13,
+    "corte": 5,
+    "precio": 155
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 14,
+    "corte": 1,
+    "precio": 208
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 14,
+    "corte": 2,
+    "precio": 204
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 14,
+    "corte": 3,
+    "precio": 197
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 14,
+    "corte": 4,
+    "precio": 191
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 14,
+    "corte": 5,
+    "precio": 187
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 14,
+    "corte": 6,
+    "precio": 182
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 15,
+    "corte": 1,
+    "precio": 199
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 15,
+    "corte": 2,
+    "precio": 189
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 15,
+    "corte": 3,
+    "precio": 183
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 15,
+    "corte": 4,
+    "precio": 175
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 15,
+    "corte": 5,
+    "precio": 171
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 16,
+    "corte": 1,
+    "precio": 202
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 16,
+    "corte": 2,
+    "precio": 192
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 16,
+    "corte": 3,
+    "precio": 189
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 16,
+    "corte": 4,
+    "precio": 186
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 16,
+    "corte": 5,
+    "precio": 177
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 16,
+    "corte": 6,
+    "precio": 175
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 16,
+    "corte": 7,
+    "precio": 173
+  },
+  {
+    "subasta_id": 6,
+    "fecha": "2026-02-26",
+    "producto_id": 16,
+    "corte": 8,
+    "precio": 171
+  },
+  {
+    "subasta_id": 7,
+    "fecha": "2026-02-26",
+    "producto_id": 43,
+    "corte": 1,
+    "precio": 77
+  },
+  {
+    "subasta_id": 7,
+    "fecha": "2026-02-26",
+    "producto_id": 43,
+    "corte": 2,
+    "precio": 73
+  },
+  {
+    "subasta_id": 7,
+    "fecha": "2026-02-26",
+    "producto_id": 1,
+    "corte": 1,
+    "precio": 86
+  },
+  {
+    "subasta_id": 7,
+    "fecha": "2026-02-26",
+    "producto_id": 3,
+    "corte": 1,
+    "precio": 131
+  },
+  {
+    "subasta_id": 7,
+    "fecha": "2026-02-26",
+    "producto_id": 3,
+    "corte": 2,
+    "precio": 126
+  },
+  {
+    "subasta_id": 7,
+    "fecha": "2026-02-26",
+    "producto_id": 3,
+    "corte": 3,
+    "precio": 121
+  },
+  {
+    "subasta_id": 7,
+    "fecha": "2026-02-26",
+    "producto_id": 4,
+    "corte": 1,
+    "precio": 131
+  },
+  {
+    "subasta_id": 7,
+    "fecha": "2026-02-26",
+    "producto_id": 4,
+    "corte": 2,
+    "precio": 125
+  },
+  {
+    "subasta_id": 7,
+    "fecha": "2026-02-26",
+    "producto_id": 4,
+    "corte": 3,
+    "precio": 120
+  },
+  {
+    "subasta_id": 7,
+    "fecha": "2026-02-26",
+    "producto_id": 4,
+    "corte": 4,
+    "precio": 115
+  },
+  {
+    "subasta_id": 7,
+    "fecha": "2026-02-26",
+    "producto_id": 5,
+    "corte": 1,
+    "precio": 100
+  },
+  {
+    "subasta_id": 7,
+    "fecha": "2026-02-26",
+    "producto_id": 5,
+    "corte": 2,
+    "precio": 92
+  },
+  {
+    "subasta_id": 7,
+    "fecha": "2026-02-26",
+    "producto_id": 5,
+    "corte": 3,
+    "precio": 66
+  },
+  {
+    "subasta_id": 7,
+    "fecha": "2026-02-26",
+    "producto_id": 6,
+    "corte": 1,
+    "precio": 74
+  },
+  {
+    "subasta_id": 7,
+    "fecha": "2026-02-26",
+    "producto_id": 6,
+    "corte": 2,
+    "precio": 68
+  },
+  {
+    "subasta_id": 7,
+    "fecha": "2026-02-26",
+    "producto_id": 6,
+    "corte": 3,
+    "precio": 63
+  },
+  {
+    "subasta_id": 7,
+    "fecha": "2026-02-26",
+    "producto_id": 6,
+    "corte": 4,
+    "precio": 58
+  },
+  {
+    "subasta_id": 7,
+    "fecha": "2026-02-26",
+    "producto_id": 7,
+    "corte": 1,
+    "precio": 68
+  },
+  {
+    "subasta_id": 7,
+    "fecha": "2026-02-26",
+    "producto_id": 7,
+    "corte": 2,
+    "precio": 63
+  },
+  {
+    "subasta_id": 7,
+    "fecha": "2026-02-26",
+    "producto_id": 7,
+    "corte": 3,
+    "precio": 59
+  },
+  {
+    "subasta_id": 7,
+    "fecha": "2026-02-26",
+    "producto_id": 7,
+    "corte": 4,
+    "precio": 54
+  },
+  {
+    "subasta_id": 7,
+    "fecha": "2026-02-26",
+    "producto_id": 7,
+    "corte": 5,
+    "precio": 31
+  },
+  {
+    "subasta_id": 7,
+    "fecha": "2026-02-26",
+    "producto_id": 8,
+    "corte": 1,
+    "precio": 114
+  },
+  {
+    "subasta_id": 7,
+    "fecha": "2026-02-26",
+    "producto_id": 8,
+    "corte": 2,
+    "precio": 109
+  },
+  {
+    "subasta_id": 7,
+    "fecha": "2026-02-26",
+    "producto_id": 8,
+    "corte": 3,
+    "precio": 104
+  },
+  {
+    "subasta_id": 7,
+    "fecha": "2026-02-26",
+    "producto_id": 8,
+    "corte": 4,
+    "precio": 100
+  },
+  {
+    "subasta_id": 7,
+    "fecha": "2026-02-26",
+    "producto_id": 8,
+    "corte": 5,
+    "precio": 95
+  },
+  {
+    "subasta_id": 7,
+    "fecha": "2026-02-26",
+    "producto_id": 9,
+    "corte": 1,
+    "precio": 200
+  },
+  {
+    "subasta_id": 7,
+    "fecha": "2026-02-26",
+    "producto_id": 9,
+    "corte": 2,
+    "precio": 186
+  },
+  {
+    "subasta_id": 7,
+    "fecha": "2026-02-26",
+    "producto_id": 10,
+    "corte": 1,
+    "precio": 551
+  },
+  {
+    "subasta_id": 7,
+    "fecha": "2026-02-26",
+    "producto_id": 11,
+    "corte": 1,
+    "precio": 173
+  },
+  {
+    "subasta_id": 7,
+    "fecha": "2026-02-26",
+    "producto_id": 11,
+    "corte": 2,
+    "precio": 164
+  },
+  {
+    "subasta_id": 7,
+    "fecha": "2026-02-26",
+    "producto_id": 12,
+    "corte": 1,
+    "precio": 200
+  },
+  {
+    "subasta_id": 7,
+    "fecha": "2026-02-26",
+    "producto_id": 12,
+    "corte": 2,
+    "precio": 197
+  },
+  {
+    "subasta_id": 7,
+    "fecha": "2026-02-26",
+    "producto_id": 12,
+    "corte": 3,
+    "precio": 194
+  },
+  {
+    "subasta_id": 7,
+    "fecha": "2026-02-26",
+    "producto_id": 12,
+    "corte": 4,
+    "precio": 191
+  },
+  {
+    "subasta_id": 7,
+    "fecha": "2026-02-26",
+    "producto_id": 13,
+    "corte": 1,
+    "precio": 172
+  },
+  {
+    "subasta_id": 7,
+    "fecha": "2026-02-26",
+    "producto_id": 13,
+    "corte": 2,
+    "precio": 169
+  },
+  {
+    "subasta_id": 7,
+    "fecha": "2026-02-26",
+    "producto_id": 13,
+    "corte": 3,
+    "precio": 163
+  },
+  {
+    "subasta_id": 7,
+    "fecha": "2026-02-26",
+    "producto_id": 14,
+    "corte": 1,
+    "precio": 216
+  },
+  {
+    "subasta_id": 7,
+    "fecha": "2026-02-26",
+    "producto_id": 14,
+    "corte": 2,
+    "precio": 212
+  },
+  {
+    "subasta_id": 7,
+    "fecha": "2026-02-26",
+    "producto_id": 14,
+    "corte": 3,
+    "precio": 206
+  },
+  {
+    "subasta_id": 7,
+    "fecha": "2026-02-26",
+    "producto_id": 14,
+    "corte": 4,
+    "precio": 202
+  },
+  {
+    "subasta_id": 7,
+    "fecha": "2026-02-26",
+    "producto_id": 14,
+    "corte": 5,
+    "precio": 199
+  },
+  {
+    "subasta_id": 7,
+    "fecha": "2026-02-26",
+    "producto_id": 14,
+    "corte": 6,
+    "precio": 196
+  },
+  {
+    "subasta_id": 7,
+    "fecha": "2026-02-26",
+    "producto_id": 15,
+    "corte": 1,
+    "precio": 216
+  },
+  {
+    "subasta_id": 7,
+    "fecha": "2026-02-26",
+    "producto_id": 15,
+    "corte": 2,
+    "precio": 211
+  },
+  {
+    "subasta_id": 7,
+    "fecha": "2026-02-26",
+    "producto_id": 15,
+    "corte": 3,
+    "precio": 201
+  },
+  {
+    "subasta_id": 7,
+    "fecha": "2026-02-26",
+    "producto_id": 15,
+    "corte": 4,
+    "precio": 192
+  },
+  {
+    "subasta_id": 7,
+    "fecha": "2026-02-26",
+    "producto_id": 16,
+    "corte": 1,
+    "precio": 173
+  },
+  {
+    "subasta_id": 7,
+    "fecha": "2026-02-26",
+    "producto_id": 16,
+    "corte": 2,
+    "precio": 165
+  },
+  {
+    "subasta_id": 7,
+    "fecha": "2026-02-26",
+    "producto_id": 16,
+    "corte": 3,
+    "precio": 159
+  },
+  {
+    "subasta_id": 7,
+    "fecha": "2026-02-26",
+    "producto_id": 16,
+    "corte": 4,
+    "precio": 138
+  },
+  {
+    "subasta_id": 7,
+    "fecha": "2026-02-26",
+    "producto_id": 17,
+    "corte": 1,
+    "precio": 227
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 1,
+    "corte": 1,
+    "precio": 81
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 1,
+    "corte": 2,
+    "precio": 75
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 1,
+    "corte": 3,
+    "precio": 73
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 1,
+    "corte": 4,
+    "precio": 71
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 1,
+    "corte": 5,
+    "precio": 67
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 1,
+    "corte": 6,
+    "precio": 65
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 3,
+    "corte": 1,
+    "precio": 130
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 3,
+    "corte": 2,
+    "precio": 125
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 4,
+    "corte": 1,
+    "precio": 130
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 4,
+    "corte": 2,
+    "precio": 124
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 4,
+    "corte": 3,
+    "precio": 119
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 4,
+    "corte": 4,
+    "precio": 114
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 4,
+    "corte": 5,
+    "precio": 110
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 5,
+    "corte": 1,
+    "precio": 98
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 5,
+    "corte": 2,
+    "precio": 93
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 5,
+    "corte": 3,
+    "precio": 91
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 5,
+    "corte": 4,
+    "precio": 86
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 5,
+    "corte": 5,
+    "precio": 61
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 6,
+    "corte": 1,
+    "precio": 80
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 6,
+    "corte": 2,
+    "precio": 75
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 6,
+    "corte": 3,
+    "precio": 71
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 6,
+    "corte": 4,
+    "precio": 69
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 6,
+    "corte": 5,
+    "precio": 67
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 6,
+    "corte": 6,
+    "precio": 64
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 6,
+    "corte": 7,
+    "precio": 62
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 6,
+    "corte": 8,
+    "precio": 58
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 7,
+    "corte": 1,
+    "precio": 69
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 7,
+    "corte": 2,
+    "precio": 63
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 7,
+    "corte": 3,
+    "precio": 59
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 7,
+    "corte": 4,
+    "precio": 56
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 7,
+    "corte": 5,
+    "precio": 54
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 7,
+    "corte": 6,
+    "precio": 53
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 8,
+    "corte": 1,
+    "precio": 116
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 8,
+    "corte": 2,
+    "precio": 113
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 8,
+    "corte": 3,
+    "precio": 109
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 8,
+    "corte": 4,
+    "precio": 107
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 8,
+    "corte": 5,
+    "precio": 105
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 8,
+    "corte": 6,
+    "precio": 103
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 8,
+    "corte": 7,
+    "precio": 102
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 8,
+    "corte": 8,
+    "precio": 100
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 8,
+    "corte": 9,
+    "precio": 98
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 8,
+    "corte": 10,
+    "precio": 96
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 9,
+    "corte": 1,
+    "precio": 194
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 9,
+    "corte": 2,
+    "precio": 159
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 11,
+    "corte": 1,
+    "precio": 188
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 11,
+    "corte": 2,
+    "precio": 151
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 12,
+    "corte": 1,
+    "precio": 191
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 12,
+    "corte": 2,
+    "precio": 184
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 12,
+    "corte": 3,
+    "precio": 180
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 12,
+    "corte": 4,
+    "precio": 177
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 12,
+    "corte": 5,
+    "precio": 172
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 13,
+    "corte": 1,
+    "precio": 183
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 13,
+    "corte": 2,
+    "precio": 180
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 13,
+    "corte": 3,
+    "precio": 176
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 14,
+    "corte": 1,
+    "precio": 212
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 14,
+    "corte": 2,
+    "precio": 205
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 14,
+    "corte": 3,
+    "precio": 199
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 14,
+    "corte": 4,
+    "precio": 195
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 14,
+    "corte": 5,
+    "precio": 191
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 14,
+    "corte": 6,
+    "precio": 188
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 14,
+    "corte": 7,
+    "precio": 184
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 14,
+    "corte": 8,
+    "precio": 181
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 15,
+    "corte": 1,
+    "precio": 178
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 15,
+    "corte": 2,
+    "precio": 169
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 15,
+    "corte": 3,
+    "precio": 164
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 15,
+    "corte": 4,
+    "precio": 154
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 16,
+    "corte": 1,
+    "precio": 188
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 16,
+    "corte": 2,
+    "precio": 184
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 16,
+    "corte": 3,
+    "precio": 181
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 16,
+    "corte": 4,
+    "precio": 177
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 16,
+    "corte": 5,
+    "precio": 174
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 16,
+    "corte": 6,
+    "precio": 170
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 16,
+    "corte": 7,
+    "precio": 165
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 16,
+    "corte": 8,
+    "precio": 161
+  },
+  {
+    "subasta_id": 8,
+    "fecha": "2026-02-26",
+    "producto_id": 17,
+    "corte": 1,
+    "precio": 185
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 1,
+    "corte": 1,
+    "precio": 61
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 1,
+    "corte": 2,
+    "precio": 56
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 1,
+    "corte": 3,
+    "precio": 52
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 3,
+    "corte": 1,
+    "precio": 121
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 3,
+    "corte": 2,
+    "precio": 114
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 3,
+    "corte": 3,
+    "precio": 110
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 4,
+    "corte": 1,
+    "precio": 119
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 4,
+    "corte": 2,
+    "precio": 112
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 4,
+    "corte": 3,
+    "precio": 107
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 4,
+    "corte": 4,
+    "precio": 102
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 4,
+    "corte": 5,
+    "precio": 100
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 5,
+    "corte": 1,
+    "precio": 91
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 5,
+    "corte": 2,
+    "precio": 84
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 5,
+    "corte": 3,
+    "precio": 64
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 6,
+    "corte": 1,
+    "precio": 85
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 6,
+    "corte": 2,
+    "precio": 79
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 6,
+    "corte": 3,
+    "precio": 75
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 6,
+    "corte": 4,
+    "precio": 72
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 6,
+    "corte": 5,
+    "precio": 68
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 6,
+    "corte": 6,
+    "precio": 63
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 7,
+    "corte": 1,
+    "precio": 80
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 7,
+    "corte": 2,
+    "precio": 72
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 7,
+    "corte": 3,
+    "precio": 68
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 7,
+    "corte": 4,
+    "precio": 65
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 8,
+    "corte": 1,
+    "precio": 121
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 8,
+    "corte": 2,
+    "precio": 114
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 8,
+    "corte": 3,
+    "precio": 108
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 8,
+    "corte": 4,
+    "precio": 105
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 8,
+    "corte": 5,
+    "precio": 102
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 8,
+    "corte": 6,
+    "precio": 100
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 9,
+    "corte": 1,
+    "precio": 190
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 9,
+    "corte": 2,
+    "precio": 179
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 9,
+    "corte": 3,
+    "precio": 168
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 9,
+    "corte": 4,
+    "precio": 158
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 10,
+    "corte": 1,
+    "precio": 848
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 10,
+    "corte": 2,
+    "precio": 808
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 10,
+    "corte": 3,
+    "precio": 556
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 10,
+    "corte": 4,
+    "precio": 498
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 11,
+    "corte": 1,
+    "precio": 172
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 11,
+    "corte": 2,
+    "precio": 161
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 11,
+    "corte": 3,
+    "precio": 155
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 11,
+    "corte": 4,
+    "precio": 150
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 11,
+    "corte": 5,
+    "precio": 147
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 12,
+    "corte": 1,
+    "precio": 228
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 12,
+    "corte": 2,
+    "precio": 194
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 12,
+    "corte": 3,
+    "precio": 187
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 12,
+    "corte": 4,
+    "precio": 182
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 12,
+    "corte": 5,
+    "precio": 178
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 12,
+    "corte": 6,
+    "precio": 172
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 12,
+    "corte": 7,
+    "precio": 167
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 13,
+    "corte": 1,
+    "precio": 169
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 13,
+    "corte": 2,
+    "precio": 165
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 13,
+    "corte": 3,
+    "precio": 163
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 13,
+    "corte": 4,
+    "precio": 159
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 13,
+    "corte": 5,
+    "precio": 155
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 14,
+    "corte": 1,
+    "precio": 191
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 14,
+    "corte": 2,
+    "precio": 180
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 14,
+    "corte": 3,
+    "precio": 174
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 14,
+    "corte": 4,
+    "precio": 163
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 14,
+    "corte": 5,
+    "precio": 153
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 14,
+    "corte": 6,
+    "precio": 148
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 15,
+    "corte": 1,
+    "precio": 182
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 15,
+    "corte": 2,
+    "precio": 171
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 15,
+    "corte": 3,
+    "precio": 162
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 15,
+    "corte": 4,
+    "precio": 151
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 16,
+    "corte": 1,
+    "precio": 168
+  },
+  {
+    "subasta_id": 9,
+    "fecha": "2026-02-26",
+    "producto_id": 16,
+    "corte": 2,
+    "precio": 165
+  },
+  {
+    "subasta_id": 10,
+    "fecha": "2026-02-26",
+    "producto_id": 3,
+    "corte": 1,
+    "precio": 120
+  },
+  {
+    "subasta_id": 10,
+    "fecha": "2026-02-26",
+    "producto_id": 4,
+    "corte": 1,
+    "precio": 126
+  },
+  {
+    "subasta_id": 10,
+    "fecha": "2026-02-26",
+    "producto_id": 5,
+    "corte": 1,
+    "precio": 93
+  },
+  {
+    "subasta_id": 10,
+    "fecha": "2026-02-26",
+    "producto_id": 5,
+    "corte": 2,
+    "precio": 83
+  },
+  {
+    "subasta_id": 10,
+    "fecha": "2026-02-26",
+    "producto_id": 6,
+    "corte": 1,
+    "precio": 75
+  },
+  {
+    "subasta_id": 10,
+    "fecha": "2026-02-26",
+    "producto_id": 6,
+    "corte": 2,
+    "precio": 71
+  },
+  {
+    "subasta_id": 10,
+    "fecha": "2026-02-26",
+    "producto_id": 6,
+    "corte": 3,
+    "precio": 67
+  },
+  {
+    "subasta_id": 10,
+    "fecha": "2026-02-26",
+    "producto_id": 6,
+    "corte": 4,
+    "precio": 65
+  },
+  {
+    "subasta_id": 10,
+    "fecha": "2026-02-26",
+    "producto_id": 6,
+    "corte": 5,
+    "precio": 63
+  },
+  {
+    "subasta_id": 10,
+    "fecha": "2026-02-26",
+    "producto_id": 7,
+    "corte": 1,
+    "precio": 58
+  },
+  {
+    "subasta_id": 10,
+    "fecha": "2026-02-26",
+    "producto_id": 7,
+    "corte": 2,
+    "precio": 53
+  },
+  {
+    "subasta_id": 10,
+    "fecha": "2026-02-26",
+    "producto_id": 7,
+    "corte": 3,
+    "precio": 50
+  },
+  {
+    "subasta_id": 10,
+    "fecha": "2026-02-26",
+    "producto_id": 7,
+    "corte": 4,
+    "precio": 41
+  },
+  {
+    "subasta_id": 10,
+    "fecha": "2026-02-26",
+    "producto_id": 8,
+    "corte": 1,
+    "precio": 117
+  },
+  {
+    "subasta_id": 10,
+    "fecha": "2026-02-26",
+    "producto_id": 8,
+    "corte": 2,
+    "precio": 114
+  },
+  {
+    "subasta_id": 10,
+    "fecha": "2026-02-26",
+    "producto_id": 8,
+    "corte": 3,
+    "precio": 111
+  },
+  {
+    "subasta_id": 10,
+    "fecha": "2026-02-26",
+    "producto_id": 8,
+    "corte": 4,
+    "precio": 108
+  },
+  {
+    "subasta_id": 10,
+    "fecha": "2026-02-26",
+    "producto_id": 8,
+    "corte": 5,
+    "precio": 105
+  },
+  {
+    "subasta_id": 10,
+    "fecha": "2026-02-26",
+    "producto_id": 11,
+    "corte": 1,
+    "precio": 170
+  },
+  {
+    "subasta_id": 10,
+    "fecha": "2026-02-26",
+    "producto_id": 11,
+    "corte": 2,
+    "precio": 164
+  },
+  {
+    "subasta_id": 10,
+    "fecha": "2026-02-26",
+    "producto_id": 12,
+    "corte": 1,
+    "precio": 202
+  },
+  {
+    "subasta_id": 10,
+    "fecha": "2026-02-26",
+    "producto_id": 12,
+    "corte": 2,
+    "precio": 199
+  },
+  {
+    "subasta_id": 10,
+    "fecha": "2026-02-26",
+    "producto_id": 12,
+    "corte": 3,
+    "precio": 196
+  },
+  {
+    "subasta_id": 10,
+    "fecha": "2026-02-26",
+    "producto_id": 14,
+    "corte": 1,
+    "precio": 215
+  },
+  {
+    "subasta_id": 10,
+    "fecha": "2026-02-26",
+    "producto_id": 14,
+    "corte": 2,
+    "precio": 208
+  },
+  {
+    "subasta_id": 10,
+    "fecha": "2026-02-26",
+    "producto_id": 14,
+    "corte": 3,
+    "precio": 197
+  },
+  {
+    "subasta_id": 10,
+    "fecha": "2026-02-26",
+    "producto_id": 16,
+    "corte": 1,
+    "precio": 172
+  },
+  {
+    "subasta_id": 10,
+    "fecha": "2026-02-26",
+    "producto_id": 16,
+    "corte": 2,
+    "precio": 164
+  },
+  {
+    "subasta_id": 10,
+    "fecha": "2026-02-26",
+    "producto_id": 16,
+    "corte": 3,
+    "precio": 159
+  },
+  {
+    "subasta_id": 10,
+    "fecha": "2026-02-26",
+    "producto_id": 16,
+    "corte": 4,
+    "precio": 154
+  },
+  {
+    "subasta_id": 10,
+    "fecha": "2026-02-26",
+    "producto_id": 16,
+    "corte": 5,
+    "precio": 152
+  }
+]
